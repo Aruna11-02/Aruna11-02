@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science with specialization in ai and ml
 - 💞️ I’m looking to collaborate on anything on web devlopment or machine learning models
 - 📫 How to reach me through vashistaarunav112002@gmail.com
+- RHSCA Linux Adminsistrator certified ex200.
 
 <!---
 Aruna11-02/Aruna11-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
