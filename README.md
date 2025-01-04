@@ -35,8 +35,8 @@ Hi there! I'm **Arunav Vashishta**, a passionate tech enthusiast diving deep int
 ---
 
 ## 🌐 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arunav-vashishta)  
-- 📧 arunav.vashishta@example.com (replace with your actual email)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arunav-vashista?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 📧 arunav.vashishta@example.com (arunavvashista@gmail.com)  
 - 💻 [GitHub](https://github.com/Aruna11-02)  
 
 ### 📊 GitHub Stats  
