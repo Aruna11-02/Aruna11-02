@@ -29,7 +29,7 @@ Hi there! I'm **Arunav Vashishta**, a passionate tech enthusiast diving deep int
 ---
 
 ## 🛠️ Current Projects  
-- Building **Real-Time Log Guard**, a scalable solution for real-time log monitoring and alerting using **Python**, **Prometheus**, **Fluentd**, and **Grafana**.  
+- Building **Real-Time AIOPS ANOMALY DETECTION**, a scalable solution for real-time log monitoring and alerting using **Python**, **Prometheus**, **Fluentd**, **KAFKA** and **Grafana**.  
 - Learning advanced **Linux administration skills** for the RHCSA certification.  
 
 ---
