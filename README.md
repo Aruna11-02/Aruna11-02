@@ -45,4 +45,4 @@ Hi there! I'm **Arunav Vashishta**, a passionate tech enthusiast diving deep int
 
 ---
 
-🌟 *"The only limit to your impact is your imagination and commitment."*  
+🌟 *"The magic you are looking lies in the work you are not doing, so start doing it"*  
